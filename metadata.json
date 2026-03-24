@@ -1,0 +1,9 @@
+{
+  "name": "book",
+  "description": "The ultimate marketplace for buying, selling, and discussing books using crypto payments and AI support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
